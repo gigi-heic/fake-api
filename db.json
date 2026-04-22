@@ -41,5 +41,12 @@
             "carga-horaria": 3600
         }
  
+    ],
+    "professores":[
+        {"id":1, "nome":"Messias"},
+        {"id":2, "nome":"Votto"},
+        {"id":3, "nome":"Alicia"},
+        {"id":4, "nome":"Heliene"},
+        {"id":5, "nome":"Daniel"}
     ]
 }
